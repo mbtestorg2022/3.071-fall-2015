@@ -73,7 +73,7 @@ Topological Constraint Theory
 
 Thorpe, M. "[Continuous Deformations in Random Networks.](http://dx.doi.org/10.1016/0022-3093(83)90424-6)" _Journal of Non-Crystalline Solids_ 57, no. 3 (1983): 355–70.
 
-Mauro, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Topological Constraint Theory of Glass." (PDF - 2.7MB)](http://www.lehigh.edu/imi/teched/AtModel/Lecture_9_READING_Micoulaut_Atomistics_Glass_Course.pdf) _American Ceramic Society Bulletin_ 90, no. 4.
+Mauro, J. ["Topological Constraint Theory of Glass." (PDF - 2.7MB)](http://www.lehigh.edu/imi/teched/AtModel/Lecture_9_READING_Micoulaut_Atomistics_Glass_Course.pdf) _American Ceramic Society Bulletin_ 90, no. 4.
 
 
 {{< tdclose >}}
